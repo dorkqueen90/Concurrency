@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Concurrency</string>
+    <string name="select_complexity">Select Complexity</string>
+    <string name="generate_using_thread">Generate Using Thread</string>
+    <string name="generate_using_asynctask">Generate Using AsyncTask</string>
+</resources>
